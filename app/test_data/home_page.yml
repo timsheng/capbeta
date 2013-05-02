@@ -1,0 +1,11 @@
+---
+input:
+  case1:
+  case2:
+  case3:
+expect:
+  case1: Test_km1
+  case2: Consultations Projects
+  case3: Consultants
+  case4: My REM Contacts
+  case5: Release Notes
